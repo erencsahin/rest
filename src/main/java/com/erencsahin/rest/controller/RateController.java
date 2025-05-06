@@ -1,6 +1,6 @@
 package com.erencsahin.rest.controller;
 
-import com.erencsahin.rest.response.RateData;
+import com.erencsahin.rest.dto.RateData;
 import com.erencsahin.rest.exception.SymbolNotFoundException;
 import com.erencsahin.rest.service.RateService;
 import org.springframework.http.MediaType;

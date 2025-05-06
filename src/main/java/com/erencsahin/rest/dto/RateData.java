@@ -1,4 +1,4 @@
-package com.erencsahin.rest.response;
+package com.erencsahin.rest.dto;
 
 public class RateData {
     private String symbol;

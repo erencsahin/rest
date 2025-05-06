@@ -1,7 +1,7 @@
 package com.erencsahin.rest.service;
 
 import com.erencsahin.rest.generator.RateGenerator;
-import com.erencsahin.rest.response.RateData;
+import com.erencsahin.rest.dto.RateData;
 import jakarta.annotation.PostConstruct;
 import org.springframework.stereotype.Service;
 
