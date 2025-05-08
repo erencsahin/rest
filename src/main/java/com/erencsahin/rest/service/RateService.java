@@ -29,7 +29,7 @@ public class RateService {
 
         currentRates.put("PF2_USDTRY", new RateData("PF2_USDTRY", 38.41904, 38.41904, LocalDateTime.now().toString()));
         currentRates.put("PF2_EURUSD", new RateData("PF2_EURTRY", 1.13538, 1.13538, LocalDateTime.now().toString()));
-        currentRates.put("PF2_GBPUSD", new RateData("PF2_EURTRY", 1.33068, 1.33068, LocalDateTime.now().toString()));
+        currentRates.put("PF2_GBPUSD", new RateData("PF2_GBPTRY", 1.33068, 1.33068, LocalDateTime.now().toString()));
 
 
         long updateInterval = 1000;
